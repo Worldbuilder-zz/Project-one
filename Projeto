@@ -1,0 +1,3 @@
+print("September 28, daylight... the monsters have overtaken the city. Somewho, I'm still alive")
+key = input("(press any key to continue)")
+print("Jornada começa!")

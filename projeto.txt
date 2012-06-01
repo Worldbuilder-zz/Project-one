@@ -1,0 +1,16 @@
+Projeto ZSCM
+Zombie Survival Choice Maker
+
+“O projeto tem como finalidade desenvolver um pequeno jogo, utilizando ao máximo a funcionalidade de uma FSM - Finite State Machine (Máquina de Estado Finito).”
+“A história se baseará na fuga de um apocalipse zumbi, tento como personagem o próprio jogador, de forma que este tomará todas as decisões pelo caminho.” 
+
+
+
+
+
+Code
+
+print (“September 28, day-light, the monsters have overtaken the city. Somewho… I’m still alive.”)
+key = input()
+print (“I’ve been collecting resources necessary for my survival for the past two months. I have secured this place, made it a fortress against those monsters. They keep roaming outside, tirelessly, punching the walls, the barricaded door, looking for any entrance, for any place I have forgotten, but I didn’t. I didn’t forget any place… my fortress is impenetrable.”)
+key = input()
